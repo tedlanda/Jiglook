@@ -35,6 +35,8 @@ __Breakdown of final piece__
 
 ![Alt Text](https://github.com/tedlanda/Jiglook/blob/master/Jiglook.png)
 
+[Click here to see Jiglook in Action!](https://www.youtube.com/watch?v=iQocwVV2rcM)
+
 __Conclusion__
 
 This project was fun because it was a puzzler game and it was interesting to create user tests and documentation on Medium.com. Those project write ups seemed professional! When creating lit up orbs using the Puzzle script, it was fun to make it fail with special noises and also get out of the dungeon to be able to restart the scene by moonwalking backwards. 
